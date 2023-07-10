@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\promact\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectUniqueName": "C:\\Users\\promact\\Desktop\\Tasks\\Day 1\\Task 4\\HelloWorldApp-1\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
       "projectName": "HelloWorldApp",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\HelloWorldApp\\HelloWorldApp\\obj\\",
+      "projectPath": "C:\\Users\\promact\\Desktop\\Tasks\\Day 1\\Task 4\\HelloWorldApp-1\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
+      "packagesPath": "C:\\Users\\promact\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\promact\\Desktop\\Tasks\\Day 1\\Task 4\\HelloWorldApp-1\\HelloWorldApp\\HelloWorldApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\promact\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

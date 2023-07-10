@@ -2,14 +2,30 @@
 {
     internal class Program
     {
+        static int Sum(int a, int b)
+        {
+            int c;
+            c = a + b;
+            return c;
+        }
+
+        static int Multiply(int a, int b)
+        {
+            int c;
+            c = a * b;
+            return c;
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your name?");
-            var name = Console.ReadLine();
-            var currentDate = DateTime.Now;
-            Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
-            Console.Write($"{Environment.NewLine}Press any key to exit...");
-            Console.ReadKey(true);
+            Console.Write("Enter first number: ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Enter second number: ");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Sum of two number is : {0}", Sum(num1, num2));
+            Console.WriteLine("Sum of two number is : {0}", Multiply(num1, num2));
+
         }
     }
 }
